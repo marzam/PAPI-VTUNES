@@ -7,6 +7,7 @@
         
 - Directories:
 
-	- sorts -> sort algorithms used to PAPI and VTUNES
+	- cxx-sort    -> sort algorithms with PAPI and VTUNES example
+	- cxx-matrix  -> matrix operation algorithms with PAPI and VTUNES example
 	- lib -> C++ class PAPI 
 
