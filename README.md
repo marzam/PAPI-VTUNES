@@ -6,6 +6,7 @@
         - sudo sh -c 'echo 0 > /proc/sys/kernel/yama/ptrace_scope'
         
 - Directories:
-sorts -> sort algorithms used to PAPI and VTUNES
-lib -> C++ class PAPI 
+
+	- sorts -> sort algorithms used to PAPI and VTUNES
+	- lib -> C++ class PAPI 
 
